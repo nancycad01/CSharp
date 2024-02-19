@@ -1,0 +1,14 @@
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\bin\Debug\net7.0\DOTNET.exe
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\bin\Debug\net7.0\DOTNET.deps.json
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\bin\Debug\net7.0\DOTNET.runtimeconfig.json
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\bin\Debug\net7.0\DOTNET.dll
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\bin\Debug\net7.0\DOTNET.pdb
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\obj\Debug\net7.0\DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\obj\Debug\net7.0\DOTNET.AssemblyInfoInputs.cache
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\obj\Debug\net7.0\DOTNET.AssemblyInfo.cs
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\obj\Debug\net7.0\DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\obj\Debug\net7.0\DOTNET.dll
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\obj\Debug\net7.0\refint\DOTNET.dll
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\obj\Debug\net7.0\DOTNET.pdb
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\obj\Debug\net7.0\DOTNET.genruntimeconfig.cache
+C:\Users\Nancycad01\Desktop\CADBATCH01\Project\DOTNET\obj\Debug\net7.0\ref\DOTNET.dll
